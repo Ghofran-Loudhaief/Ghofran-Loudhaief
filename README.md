@@ -1,3 +1,5 @@
+![1719347065225](https://github.com/user-attachments/assets/80025e89-9273-4df5-b3c6-0db0f18a3c33)
+
 Hello, I'm Ghofran Loudhaief 👋
 
 Welcome to my GitHub Profile! 🚀
@@ -8,7 +10,7 @@ I enjoy building modern, responsive web applications and am currently diving int
 
 I'm always enthusiastic about automating and digitizing for a better human life!
 
-About Me
+About Me : 
 
 🎓 Currently pursuing a Bachelor's degree in IT and Communication.
 
