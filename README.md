@@ -16,8 +16,6 @@ About Me :
 
 🌐 Skilled in JavaScript, TypeScript, React and more.
 
-🖥️ Exploring 3D web development with tools like Three.js.
-
 🔭 Working on my personal portfolio to showcase my projects and skills.
 
 🌱 Always learning, with a special interest in NoSQL databases, front-end frameworks, and 3D web technologies.
