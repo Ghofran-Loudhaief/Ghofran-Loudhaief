@@ -20,8 +20,6 @@ About Me :
 
 🔭 Working on my personal portfolio to showcase my projects and skills.
 
-💼 Actively looking for a web development internship (starting February 2024).
-
 🌱 Always learning, with a special interest in NoSQL databases, front-end frameworks, and 3D web technologies.
 
 ✨ Proud of mastering React JS and building SPAs with TypeScript.
